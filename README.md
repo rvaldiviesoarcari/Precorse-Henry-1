@@ -1,2 +1,1 @@
-# Precorse-Henry-1
-esto es una prueba de crear repositorio
+Esto es una preuba de crear repostorio y poder clonarlo
